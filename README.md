@@ -8,4 +8,4 @@
 6. Másold a mappa tartalmát a saját Addon mappádba
 
 Ha mindent sikerült jól csinálnod valami hasonlót kellene látnod:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/szucsim/Wotlk_Tauri_DBM/blob/main/adoons.png)
