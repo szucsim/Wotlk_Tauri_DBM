@@ -7,4 +7,4 @@
 5. Csomagold ki a letöltött zip file-t.
 6. Másold a mappa tartalmát a saját Addon mappádba
 
-
+Ha mindent sikerült jól csinálnod valami hasonlót kellene látnod:
