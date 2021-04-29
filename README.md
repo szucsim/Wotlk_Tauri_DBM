@@ -7,6 +7,6 @@
 5. Csomagold ki a letöltött zip file-t.
 6. Másold a mappa tartalmát a saját Addon mappádba
 
-Ha mindent sikerült jól csinálnod, akkor valami hasonlót kellene látnod:
+Ha mindent sikerült jól csinálnod, akkor valami hasonlót kellene látnod: (A képen több mappa szerepel ne tévesszen meg)
 
 ![Image of Yaktocat](https://github.com/szucsim/Wotlk_Tauri_DBM/blob/main/adoons.png)
